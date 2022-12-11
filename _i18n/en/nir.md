@@ -5,7 +5,7 @@
 | Postgraduate student | Year | PhD thesis topic | Scientific adviser | Link to publication |
 |:---:|:---:|:---:|:---:|:---:|
 |  |  |  |  |  |
-
+| Alex Goncharov | 4 | Space-time series alignment models | [Strijov V.V.](http://www.ccas.ru/strijov/) | [Papers](https://scholar.google.com/citations?user=gUw78OkAAAAJ&hl=ru), [Disser](https://github.com/lyoshamipt/Goncharov_PhDThesis/blob/main/Goncharov%20PhDThesis_v2.pdf), [Slides](https://github.com/lexix/Goncharov_PhDThesis/blob/main/Goncharov%20-%20Dissertation.pdf) | 
 
 
 #### Second Year Master Students
